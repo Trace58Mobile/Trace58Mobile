@@ -185,9 +185,6 @@ All recorded programming time:
     <td>02.2024</td>
     <td>07.2025</td>
     <td><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' width="15"> Flutter&nbsp;-&nbsp;MVC</td>
-    <td>
-      </a>
-    </td>
     <td>Develop</td>
   </tr>
 
@@ -279,7 +276,6 @@ All recorded programming time:
     <td>09.2023</td>
     <td>
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width="15"> Swift&nbsp;-&nbsp;MVP + Coordinator</td>
-    <td>Time was not recorded</td>
     <td>
         Frozen</td>
   </tr>
