@@ -5,8 +5,6 @@
 
 ### Working projects
 
-All recorded programming time: 
-
 <table>
   <thead>
   <tr>
