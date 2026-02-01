@@ -14,7 +14,6 @@ All recorded programming time:
       <th>Start</th>
       <th>Finish</th>
       <th>Language&nbsp;-&nbsp;Architecture</th>
-      <th>Coding time</th>
       <th>Store</th>
   </tr>
   </thead>
